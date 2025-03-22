@@ -48,8 +48,8 @@ Project Structure
 │   │   ├── 📄 emailable-report.html  
 │   │   ├── 📄 testng-results.xml  
 │── 📂 xml  
-│   ├── 📄 test.xml  
-│   ├── 📄 testcases.xml  
+│   ├── 📄 TestRunner.xml  
+│   ├── 📄 Testcase.xml  
 │── 📄 pom.xml  
 
 Technologies Used in the Project
